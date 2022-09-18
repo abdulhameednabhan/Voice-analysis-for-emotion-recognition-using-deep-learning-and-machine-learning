@@ -2,7 +2,7 @@
 Emotion recognition system ( voice) and export api
 This project presents a deep learning classifier able to predict the emotions of a human speaker encoded in an audio file. The classifier is trained using 2 different datasets, RAVDESS and TESS, and has an overall F1 score of 83% on 8 classes (neutral, calm, happy, sad, angry, fearful, disgust and surprised).
 
-*gathering datasets*dataset**
+**gathering dataset**
 - the [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) dataset](https://zenodo.org/record/1188976#.XsAXemgzaUk) 
 - the [Toronto emotional speech set (TESS) dataset](https://tspace.library.utoronto.ca/handle/1807/24487) 
 
@@ -79,6 +79,7 @@ Digitally and then interview the resulting number with the corresponding feeling
 We receive the file that we want to process in the application, apply the prediction function to it, and then return, to make it easier
 Process it and deal with it in web pages or android json application
 We run the application through
-![Link to accuracy](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/accuracy.png)
+![Link to eval](Voice-analysis-for-emotion-recognition-using-deep-learning-and-machine-learning/eval_models.PNG )
+
 
 
