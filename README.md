@@ -56,6 +56,8 @@ The most accurate is through training using machine learning algorithms from cla
 3.random forest
 4.svm
 And CNN 1D
+![Link to loss](https://github.com/abdulhameednabhan/Voice-analysis-for-emotion-recognition-using-deep-learning-and-machine-learning/blob/main/cnn_structure.PNG) 
+![Link to stract](https://github.com/abdulhameednabhan/Voice-analysis-for-emotion-recognition-using-deep-learning-and-machine-learning/blob/main/cnn.PNG)
 
 **model select**
 Obtain 87% accuracy in test data, 97% in training data, svm, and algorithm
@@ -67,6 +69,7 @@ The difference between training and testing remains about 7%, which is a good pe
 Neuroscience as a final model and this is a comparison in the results of the networks and the result of each feeling
 In the f1-score it is noted that the feeling of calm is the lowest accuracy and this is something logical because it is difficult to distinguish
 And mixing it with many other feelings even for a human being
+![Link to stract](https://github.com/abdulhameednabhan/Voice-analysis-for-emotion-recognition-using-deep-learning-and-machine-learning/blob/main/eval.PNG)
 
 **model deployment**
 We created an api to test files and create a simple web application from the framework Flask
