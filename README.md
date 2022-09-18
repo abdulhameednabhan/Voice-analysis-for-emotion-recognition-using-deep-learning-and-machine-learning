@@ -79,6 +79,6 @@ Digitally and then interview the resulting number with the corresponding feeling
 We receive the file that we want to process in the application, apply the prediction function to it, and then return, to make it easier
 Process it and deal with it in web pages or android json application
 We run the application through
-
+![Link to accuracy](https://github.com/marcogdepinto/Emotion-Classification-Ravdess/blob/master/media/accuracy.png)
 
 
